@@ -10,6 +10,6 @@ I'm Haleema Malik, a Software engineering student at Liverpool John Moores Unive
 - **Tools & Platforms**: AJAX, XAMPP, Git
 
 # 📊 GitHub Stats:
-![Haleema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haleema33&show_icons=true&theme=radical)
+# ![Haleema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haleema33&show_icons=true&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=haleema&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)

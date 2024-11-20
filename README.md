@@ -5,7 +5,7 @@ I'm Haleema Malik, a Software engineering student at Liverpool John Moores Unive
 - [LinkedIn](https://www.linkedin.com/in/haleema-malik-194526248/)
 
 # 💻 Tech Stack:
-- **Languages & Frameworks**: HTML, CSS, JavaScript, PHP, Java, Python, Bootstrap, jQuery, React
+- **Languages & Frameworks**: HTML, CSS, JavaScript, PHP, Java, Python, Bootstrap, jQuery
 - **Database**: MySQL, MariaDB, MongoDB
 - **Tools & Platforms**: AJAX, XAMPP, Git, SPSS, Visual Studio, SSMS, Wordpress
 

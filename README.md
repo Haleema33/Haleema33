@@ -7,9 +7,7 @@ I'm Haleema Malik, a Software engineering student at Liverpool John Moores Unive
 # 💻 Tech Stack:
 - **Languages & Frameworks**: HTML, CSS, JavaScript, PHP, Java, Python, Bootstrap, jQuery, React
 - **Database**: MySQL, MariaDB, MongoDB
-- **Tools & Platforms**: AJAX, XAMPP, Git
+- **Tools & Platforms**: AJAX, XAMPP, Git, SPSS, Visual Studio, SSMS, Wordpress
 
-# 📊 GitHub Stats:
-# ![Haleema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haleema33&show_icons=true&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=haleema&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)

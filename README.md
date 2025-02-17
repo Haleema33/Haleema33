@@ -10,7 +10,5 @@ I'm Haleema Malik, a Software engineering student at Liverpool John Moores Unive
 - **Tools & Platforms**: AJAX, XAMPP, Git, SPSS, Visual Studio, SSMS, Wordpress
 
 
-![Profile views](https://visitcount.itsvg.in/api?id=haleema&label=Profile%20Views&color=3&icon=0&pretty=false)(https://visitcount.itsvg.in)
-![Profile Views](https://visitcount.itsvg.in/api?id=haleema&label=Profile%20Views&color=3&icon=0&pretty=false)
-[![Profile Views](https://visitcount.itsvg.in/api?id=haleema&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
